@@ -118,9 +118,16 @@
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amitmittal117&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=6" alt="GitHub Trophies" />
+</div>
+
+---
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amitmittal117&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  <img src="https://komarev.com/ghpvc/?username=amitmittal117&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </p>
 
 ---
