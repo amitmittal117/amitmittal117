@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Amit, Fullstack developer from <img src="/India-square-flag.png" width="13"/> <b> India</b>, currently living in <img src="/united-states.png" width="13"/> <b>Los Angeles, USA</b>. </p>
-<p>With over 6 years of hands-on software engineering experience and team leadership in the FinTech, Infrastructure as a Service, and Gaming industries, I excel at driving strategic initiatives and delivering high quality, impactful solutions. I am adept at creating and executing roadmaps aligned with business priorities, ensuring efficient collaboration across teams to tackle complex challenges. My focus is on developing cutting-edge software that not only meets current needs but is also adaptable to future technological trends, consistently striving for innovation and excellence in every project.</p>
+<p>AI-focused Full-Stack Software Engineer with 6+ years of experience building cloud-native systems, AI-powered microservices, and agentic automation workflows. Experienced in integrating LLMs, RAG pipelines, and Model Context Protocol (MCP) for next-generation intelligent applications. Skilled in Microservices Architecture, RESTful API Development, and Agile Software Delivery.</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amitrmittal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amitarmittal@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amitmittal2)
