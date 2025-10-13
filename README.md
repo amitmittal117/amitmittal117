@@ -73,13 +73,15 @@
 
 ---
 
-### 💼 Experience Highlights
+### Experience Highlights
+
 | Role | Company | Key Impact |
-|------|----------|------------|
-| Software Dev Intern | **ESRI Inc.** | Automated ArcGIS Enterprise setup via Jenkins, saving 10+ hours per build |
-| Staff Engineer | **IBM Labs** | Implemented SOC2 Secret Manager on IaaS, saving $3M; automated IAM OIDC |
-| Full-Stack Dev | **Axiom IO** | Built high-traffic game & sports platforms (~14M req/week) |
-| Software Engineer | **Kuliza Technologies** | Led Edu-Loan system; introduced Celery async queueing |
+|------|---------|------------|
+| 🧠 Software Dev Intern | [![Esri](https://img.shields.io/badge/Esri-4CAF50?logo=esri&logoColor=white)](https://www.esri.com/) | Automated ArcGIS Enterprise setup via Jenkins, saving 10+ hours per build |
+| 💻 Staff Engineer | [![IBM](https://img.shields.io/badge/IBM-052FAD?logo=ibm&logoColor=white)](https://www.ibm.com/) | Implemented SOC2 Secret Manager on IaaS, saving 3M; automated IAM OIDC |
+| ⚙️ Full-Stack Dev | [![Axiom IO](https://img.shields.io/badge/Axiom%20IO-2F74C0?logoColor=white)](https://www.axiomio.com/) | Built high-traffic game and sports platforms approx 14M req per week |
+| 🔧 Software Engineer | [![Kuliza Technologies](https://img.shields.io/badge/Kuliza%20Technologies-555555?logoColor=white)](https://www.finvolv.ai/) | Led education loan system and added Celery async queueing |
+
 
 ---
 
