@@ -12,6 +12,15 @@
 
 ---
 
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amitrmittal)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amitarmittal@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/amitmittal117)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Amitmittal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=react&logoColor=61DAFB)](https://amitmittal117.github.io/portfolio/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/amitmittal2)
+
+---
 
 ### 🚀 What I Do
 - 💡 Design **AI-powered microservices** & cloud-native systems  
