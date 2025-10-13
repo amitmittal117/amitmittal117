@@ -32,7 +32,6 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=databricks&logoColor=fff)
 ![Protocol Buffers](https://img.shields.io/badge/Protocol%20Buffers-4285F4?logo=google&logoColor=white)
 
-
 #### Frameworks, Libraries & Systems
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485?logo=fastapi&logoColor=fff)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff)
@@ -110,7 +109,6 @@
 | 💻 Staff Engineer | [![IBM](https://img.shields.io/badge/IBM-052FAD?logo=ibm&logoColor=white)](https://www.ibm.com/) | Implemented SOC2 Secret Manager on IaaS, saving 3M; automated IAM OIDC |
 | ⚙️ Full-Stack Dev | [![Axiom IO](https://img.shields.io/badge/Axiom%20IO-2F74C0?logoColor=white)](https://www.axiomio.com/) | Built high-traffic game and sports platforms approx 14M req per week |
 | 🔧 Software Engineer | [![Kuliza Technologies](https://img.shields.io/badge/Kuliza%20Technologies-555555?logoColor=white)](https://www.finvolv.ai/) | Led education loan system and added Celery async queueing |
-
 
 ---
 
