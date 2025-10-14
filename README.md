@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitmittal117&label=Profile%20views&color=0e75b6&style=flat" alt="sumitrodrigues" /> </p>
 <h1 align="center">
   👋 Hi, I'm <b>Amit Mittal</b>
 </h1>
@@ -148,8 +149,4 @@
 ### ✨ Fun Bits
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" width="70%"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amitmittal117&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </p>
