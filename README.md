@@ -125,8 +125,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amitmittal117&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amitmittal117&theme=tokyonight&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitmittal117&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
