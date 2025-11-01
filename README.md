@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitmittal117&label=Profile%20views&color=0e75b6&style=flat" alt="sumitrodrigues" /> </p>
 <h1 align="center">
-  👋 Hi, I'm <b>Amit Mittal</b>
+  👋 Hi, I'm <a href="https://www.linkedin.com/in/amitrmittal">Amit Mittal</a>
 </h1>
 
 <p align="center">
