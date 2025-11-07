@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&rotate=180"/>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitmittal117&label=Profile%20views&color=0e75b6&style=flat" alt="sumitrodrigues" /> </p>
+
 <h1 align="center">
   👋 Hi, I'm <a href="https://www.linkedin.com/in/amitrmittal">Amit Mittal</a>
 </h1>
@@ -23,6 +23,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Amitmittal)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=react&logoColor=61DAFB)](https://amitmittal117.github.io/portfolio/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/amitmittal2)
+<img src="https://komarev.com/ghpvc/?username=amitmittal117&label=Profile%20views&color=0e75b6&style=flat" alt="sumitrodrigues" />
 
 ---
 
