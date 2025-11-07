@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&rotate=180"/>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitmittal117&label=Profile%20views&color=0e75b6&style=flat" alt="sumitrodrigues" /> </p>
 <h1 align="center">
   👋 Hi, I'm <a href="https://www.linkedin.com/in/amitrmittal">Amit Mittal</a>
