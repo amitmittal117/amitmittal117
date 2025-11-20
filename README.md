@@ -103,14 +103,6 @@
 
 ---
 
-## 🏆 Achievements  
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amitmittal117&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=6"/>
-</div>
-
----
-
 ## 📈 Activity Overview
 
 <p align="center">
