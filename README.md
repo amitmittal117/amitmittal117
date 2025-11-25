@@ -46,6 +46,8 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=databricks&logoColor=fff)
 ![Protocol Buffers](https://img.shields.io/badge/Protocol%20Buffers-4285F4?logo=google&logoColor=white)
+![Toon](https://img.shields.io/badge/Toon-8A2BE2?logo=semanticweb&logoColor=white)
+
 
 #### Frameworks, Libraries & Systems
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485?logo=fastapi&logoColor=fff)
