@@ -134,14 +134,14 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img 
+      <!-- <img 
         height="300"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitmittal117&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-      />
+      /> -->
+      <img src="https://leetcard.jacoblin.cool/amitmittal?theme=dark&font=Work%20Sans&ext=heatmap"/>
     </td>
     <td align="center" width="50%">
-      <img 
-        height="300"
+      <img
         src="https://leetcode-badge-showcase.vercel.app/api?username=amitmittal&theme=transparent&border=no-border&animated=false"
       />
     </td>
